@@ -10,7 +10,7 @@ On Clicking on row the page is redirected to a static page with the help of reac
 
 Following schema of db in json format. This is low db data and it is exposed to the REST API.
 
-### `{ products: ["products" : [{ "id" : 1, "name": "mouse", "description": "Wired mouse with mousepad", "price" : 299, "left" : "In stock" },
+# `{ products: ["products" : [{ "id" : 1, "name": "mouse", "description": "Wired mouse with mousepad", "price" : 299, "left" : "In stock" },
 
 ### ] }`
 
@@ -18,7 +18,7 @@ Following schema of db in json format. This is low db data and it is exposed to 
 
 Go to db folder using cd command.
 
-### `cd db`
+# `cd db`
 
 Run the below command. This will start json server at the port 3000
 
