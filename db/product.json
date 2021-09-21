@@ -1,0 +1,75 @@
+{
+  
+ "products" : [
+   {
+     "id" : 1,
+     "name": "mouse",
+     "description": "Wired mouse with mousepad",
+     "price" : 299,
+      "left" : "In stock"
+   },
+   {
+     "id" : 2,
+     "name" : "earphones",
+     "description" : "3mm long wired with noise in-built cancellation",
+     "price" : 399,
+     "left" : "In stock"
+   },
+   {
+     "id": 3,
+     "name": "Keyboard ",
+     "description": "Dell KB216 Wired Multimedia USB Keyboard",
+     "price": 620,
+     "left": "In stock"
+   },
+   {
+     "id": 4,
+     "name": "SSD",
+     "description": "ADATA Ultimate SU650 3D NAND 240 GB SSD - su650",
+     "price": 2999,
+     "left":"In stock"
+   },
+   {
+     "id": 5,
+     "name": "USB cable",
+     "description": "Mi USB Type-C Cable",
+     "price": 199,
+     "left": "In stock"
+   },
+   {
+     "id": 6,
+     "name": "Bluetooth speaker",
+     "description": "Wecool Moonwalk M3 Bluetooth in Ear True Wireless Earbuds with High Bass, Touch Control Low Latency Earpods with HD Stereo Sound, Digital Display, 24 Hours Battery, Anti Fall Sports Fit, BT 5.1, Black",
+     "price": 1299,
+     "left":"In stock"
+   },
+   {
+     "id": 7,
+     "name": "Smart Band",
+     "description": "Mi Smart Band 5 – India’s No. 1 Fitness Band, 1.1-inch AMOLED Color Display, Magnetic Charging, 2 Weeks Battery Life, Personal Activity Intelligence (PAI), Women’s Health Tracking",
+     "price": 2499,
+     "left": "In stock"
+   },
+   {
+     "id": 8,
+     "name": "Microphone",
+     "description": "Boya BYM1 Omnidirectional Lavalier Condenser Microphone with 20ft Audio Cable (Black)",
+     "price": 721,
+     "left":"In stock"
+   },
+   {
+     "id": 9,
+     "name": "TP-Link Router",
+     "description": "TP-Link Archer AC1200 Archer C6 Wi-Fi Speed Up to 867 Mbps/5 GHz + 300 Mbps/2.4 GHz, 5 Gigabit Ports, 4 External Antennas and 1 Internal Antenna WiFi Coverage with Access Point Mode, Qualcomm Chipset",
+     "price": 2599,
+     "left":"In stock"
+   },
+   {
+     "id": 10,
+     "name": "Pen Drive",
+     "description": "HP v236w 64GB USB 2.0 Pen Drive",
+     "price": 505,
+     "left": "In stock"
+   }
+ ]
+}
