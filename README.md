@@ -20,7 +20,7 @@ Go to db folder using cd command.
 
 Run the below command. This will start json server at the port 3000
 
-### `npx json-server --watch product.js`
+### `npx json-server --watch product.json`
 
 # Getting Started
 
